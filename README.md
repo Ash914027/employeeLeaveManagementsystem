@@ -2,7 +2,7 @@
 for managing the leave for employee
 
 
-How to run the employee Leave Management using PHP and MySQL
+How to run the employee Leave Management using PHP and MySQL.
 
 1. Download the project zip file
 
